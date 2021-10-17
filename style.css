@@ -265,8 +265,8 @@ nav .content .links{
   margin: 5px 0;
 }
 .fbutton{
-  color: white;
-  background: goldenrod;
+  color: black;
+  background: white;
   padding: 0; 
   text-align: center;
   display: inline-block; 
@@ -281,15 +281,15 @@ nav .content .links{
 
 .fbutton:hover {
   color: black;
-  background: goldenrod;
+  background: green;
   border-radius: 5px;
-  transition-delay: 0.1s;
+  transition-delay: 0.2s;
   font-family: "CC Overbyte";
-  border-radius: 5px;
-  box-shadow: 5px 10px goldenrod;
+  border-radius: 6px;
+  box-shadow: 6px 12px lime;
 }
 h4 {
-  background-color: #00ffff
+  background-color: black
 }
 *{
     box-sizing: border-box;
@@ -300,7 +300,7 @@ html, body {
 }
 body {
   font-family: 'Varela Round', sans-serif;
-    background: #00ffff;
+    background: black;
     padding: 0;
     margin: 0;
 }
